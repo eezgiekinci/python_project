@@ -1,6 +1,6 @@
-# python_project
+# python_projects
 
-Welcome to my Python Project Respo ! 🎈
+Welcome to my Python Projects Respo ! 🎈
 
 You can find the python projects that are coded by me! 👩‍💻
 
