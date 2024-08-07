@@ -16,4 +16,5 @@ If you are a newby, there are three learning paths. Please, check out:
 Projects:
 
 1) Rock-Paper-Scissors: https://github.com/eezgiekinci/rock-paper-scissors_python
+2) Password Generator: https://github.com/eezgiekinci/password_generator
 
