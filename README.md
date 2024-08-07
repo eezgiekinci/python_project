@@ -4,7 +4,7 @@ Welcome to my Python Projects Respo ! 🎈
 
 You can find the python projects that are coded by me! 👩‍💻
 
-If you are a newby, there are three learning paths. Please, check out:
+If you are a newbie, there are three learning paths. Please, check out:
 
 1) https://github.com/eezgiekinci/i-m-learning-python-1
 
