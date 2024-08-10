@@ -19,4 +19,5 @@ Projects:
 2) Password Generator: https://github.com/eezgiekinci/password_generator
 3) Basic Hangman: https://github.com/eezgiekinci/basic_5letter_hangman
 4) Caesar Chiper: https://github.com/eezgiekinci/Caesar_Chiper
+5) Secret Auction: https://github.com/eezgiekinci/Secret_Auction
 
