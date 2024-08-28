@@ -21,4 +21,5 @@ Projects:
 4) Caesar Chiper: https://github.com/eezgiy/Caesar_Chiper
 5) Secret Auction: https://github.com/eezgiy/Secret_Auction
 6) BlackJack: https://github.com/eezgiy/BlackJack  ♠️
+7) Turtle: https://github.com/eezgiy/bob_the_turtle 🐢
 
