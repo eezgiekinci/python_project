@@ -15,11 +15,16 @@ If you are a newbie, there are three learning paths. Please, check out:
 
 Projects:
 
+Beginner Level:
+
 1) Rock-Paper-Scissors: https://github.com/eezgiy/rock-paper-scissors_python
 2) Password Generator: https://github.com/eezgiy/password_generator
 3) Basic Hangman: https://github.com/eezgiy/basic_5letter_hangman
 4) Caesar Chiper: https://github.com/eezgiy/Caesar_Chiper
 5) Secret Auction: https://github.com/eezgiy/Secret_Auction
+
+Intermadiate Level:
+
 6) BlackJack: https://github.com/eezgiy/BlackJack  ♠️
 7) Turtle: https://github.com/eezgiy/bob_the_turtle 🐢
 
