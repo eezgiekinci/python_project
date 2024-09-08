@@ -28,4 +28,5 @@ Intermadiate Level:
 6) BlackJack: https://github.com/eezgiy/BlackJack  ♠️
 7) Turtle: https://github.com/eezgiy/bob_the_turtle 🐢
 8) Dots: https://github.com/eezgiy/dots
+9) Avrupa Ülkelerini Tahmin Etme: https://github.com/eezgiy/avrupa_ulkeleri 
 
